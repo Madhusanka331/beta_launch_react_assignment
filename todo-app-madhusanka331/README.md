@@ -1,3 +1,9 @@
+# Personal Details
+Name : H. Chathura Madhusanka Silva
+Email: cmadhusanka29@gmail.com
+Mobile Number: 0764930865
+Github: https://github.com/Madhusanka331
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
